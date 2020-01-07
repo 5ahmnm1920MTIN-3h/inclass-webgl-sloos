@@ -12,6 +12,9 @@ Mac Os Mojave Version 10.14.6
 WebGL, reference resolution 960 x 600
 
 ### Visuals: 
+<div>
+<img src = "Assets/MyGame/images/WebGLTesting.png" width = "500">
+</div>
 
 ### Necessary setup/execution steps: 
 
@@ -26,8 +29,8 @@ WebGL, reference resolution 960 x 600
 
 
 ### Lessons Learned: 
-
-
+* Switch Platform from Standalone to WebGL
+* Build WebGL
 
 
 ---
