@@ -17,20 +17,21 @@ WebGL, reference resolution 960 x 600
 </div>
 
 ### Necessary setup/execution steps: 
-
+None
 
 ### Third party material: 
-
+None
 
 ### Project state: 
-
+100%
 
 ### Limitations: 
-
+None
 
 ### Lessons Learned: 
 * Switch Platform from Standalone to WebGL
 * Build WebGL
+* GitHub Pages, with docs
 
 
 ---
