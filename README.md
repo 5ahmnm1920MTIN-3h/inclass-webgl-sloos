@@ -1,7 +1,7 @@
 # inclass-webgl-sloos
 
 ### Project description: 
-2D 
+2D WebGL testing repository and hosting.
 
 ### Development platform: 
 Unity version 2019.1.14f1
@@ -12,7 +12,6 @@ Mac Os Mojave Version 10.14.6
 WebGL, reference resolution 960 x 600
 
 ### Visuals: 
-
 
 ### Necessary setup/execution steps: 
 
